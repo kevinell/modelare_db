@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T19:28:55.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KARLwIRHFy59M2UqN3et" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T19:32:44.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RXg9RThjjgoZpCHxALNc" version="22.1.4" type="github">
   <diagram name="Pagină-1" id="bRxWwBNqt0c-3LS7djKt">
-    <mxGraphModel dx="1943" dy="2729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="4289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CSEjm_ukC-roUuF_pxlE-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Lucrari cadadstru&lt;br&gt;GIS&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#00CC00;strokeColor=#82B366;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry width="130" height="160" as="geometry" />
+          <mxGeometry x="-260" y="-60" width="130" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CSEjm_ukC-roUuF_pxlE-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;sectoare_cadastrale&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="980" y="170" width="160" height="70" as="geometry" />
